@@ -87,12 +87,22 @@ The goal is to derive actionable insights that help optimize operations, reduce 
 ---
 
 ## 🧠 Project Scope
-- Domain: Food Delivery / E-commerce  
-- Use Case: Demand forecasting & risk analysis  
+
+### Domain:
+Food Delivery / E-commerce
+
+### Problem Focus:
+Analyzing order trends, cancellations, fraud, and wastage using time series techniques to improve operational efficiency.
 
 ### Stakeholders:
 - Food delivery platforms (Zomato, Swiggy)  
 - Operations & supply chain teams  
+
+### Decision Support:
+- Demand forecasting  
+- Fraud detection  
+- Reduction of food wastage  
+- Better resource planning  
 
 ---
 
